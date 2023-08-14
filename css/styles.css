@@ -13,7 +13,17 @@
 
 .subheader-text{
   font-family: 'Bitter', serif;
+  font-size: 55px;
+}
+
+.portfolio-text{
+  font-family: 'Bitter', serif;
   font-size: 40px;
+}
+
+.resume{
+  width: 100%;
+  height: 800px;
 }
 
 .body-header-text{
